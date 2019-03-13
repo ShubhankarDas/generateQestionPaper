@@ -1,0 +1,220 @@
+{
+  "Hard": {
+    "totalMarks": 75,
+    "questionSet": [
+      {
+        "marks": 20,
+        "questions": [
+          {
+            "text": "What is intercropping?",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "Define biogeochemical cycle.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      },
+      {
+        "marks": 10,
+        "questions": [{
+            "text": "List  any  three  human  activities  which  could  lead  to  anincrease  in  carbon  dioxide content of air.",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "Explain the role of the Sun in the formation of soil. ",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      },
+      {
+        "marks": 5,
+        "questions": [{
+            "text": "What is the significance of electronic configuration of an atom?",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "Define Pollination",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      },
+      {
+        "marks": 1,
+        "questions": [{
+            "text": "Explain any three methods of weed control.",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "What  is  green  manuring?  List  two  commonly  used  green  manure  crops  and  name  two macronutrients provided by green manure.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }, {
+            "text": "Althougha stone and the Earth attract each other with equal force, why do we observe that  only  the  stone  falls  towards  the  Earth  but  not  the  Earth  rising  towards  the  stone?Explain.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }, {
+            "text": "A  wooden  cuboid  has a mass  of  8 kg.  The  length,  breadth  and  height  of  this  wooden cuboid  are  100  cm,  50cm  and  20  cm,  respectively.  Find  the  pressure  on  the  floors  on which this block is kept.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }, {
+            "text": "Calculatethe  force  of  gravitation  due  to  the  Earth  on  a  ballof  2kg  mass  lying  on  the floor.  Consider  the mass of the Earth  =61024kg, radius of the Earth  =  6400  kmanduniversal gravitation constant G = 6.7 10−11Nm2/kg2.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      }
+    ]
+  },
+  "Medium": {
+    "totalMarks": 75,
+    "questionSet": [{
+        "marks": 20,
+        "questions": [{
+            "text": "A silver ornament of mass ‘m’ gram waspolished  with  gold  equivalent  to  1%  of  the mass  of  silver.  Calculatethe  ratio  of  the  number  of  atoms  of  gold  and  silver  in  the ornament.",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "Name two processes involvedin the formation of soil",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      },
+      {
+        "marks": 10,
+        "questions": [{
+            "text": "List two initiatives taken to increase the availability of water foragriculture.",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "List the properties of suspension and give examples.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      },
+      {
+        "marks": 5,
+        "questions": [{
+            "text": "Name  the  gas  which  is  added  during the purification  of  water. Why  is  it  called  a disinfectant?",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "Disha  performed  an  experiment  in  which  she  kept  the cellsof  onion  peel  and  RBCs separately in a hypotonic solution. What would happen to both these types of cells?",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      },
+      {
+        "marks": 1,
+        "questions": [{
+            "text": "How many moles of Cr are present in 85 g of Cr2S3?",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "A bullet  of  mass  15  g  is  fired  from a gunof  mass  5  kg  with a velocity  of  500  m/s. Calculate the recoil velocity of the gun. Also explain what you mean by recoil velocity",
+            "subject": "Science",
+            "topic": "class - 9"
+          }, {
+            "text": "State  the  management  practices  followed  in  a  livestock  firm  to  ensure  healthy  and productive livestock population.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }, {
+            "text": "How  will  you  differentiate  between  squamous,  cuboidal  and  columnar epithelia under the microscope, if slides of each of these are individually prepared?",
+            "subject": "Science",
+            "topic": "class - 9"
+          }, {
+            "text": "We can easily move our hand in the air but not through any solid material’. Justify the statement.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      }
+    ]
+  },
+  "Easy": {
+    "totalMarks": 75,
+    "questionSet": [{
+        "marks": 20,
+        "questions": [{
+            "text": "Two bodies of equal masses move with uniform velocities v and 4v,respectively. Find the ratio of their kinetic energies.",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "Write an expression for work done in raising a load of mass ‘m’ at height ‘h’.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      },
+      {
+        "marks": 10,
+        "questions": [{
+            "text": "Why is solid carbon dioxide called dry ice? Give its uses.",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "Why is dry ice more effective for cooling purposes than ordinary ice",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      },
+      {
+        "marks": 5,
+        "questions": [{
+            "text": "Why is dry ice stored under high pressure?",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "Draw aneat and labelled diagramof the nitrogen cycle in nature.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      },
+      {
+        "marks": 1,
+        "questions": [{
+            "text": "Describe  in  brief  the  role  of  nitrogen-fixing  bacteria  and  lightning  in  atmospheric nitrogen fixation",
+            "subject": "Science",
+            "topic": "class - 9"
+          },
+          {
+            "text": "Draw a neatandlabelled diagramof the carbon cycle in nature.",
+            "subject": "Science",
+            "topic": "class - 9"
+          }, {
+            "text": "What  is the greenhouse  effect?  How  does  carbon  dioxide  cause  global  warming  in the atmosphere?",
+            "subject": "Science",
+            "topic": "class - 9"
+          }, {
+            "text": "Explain how during the burning of a candle, both physical and chemical changes take place",
+            "subject": "Science",
+            "topic": "class - 9"
+          }, {
+            "text": "Why is the coelom absent in diploblastic organisms?",
+            "subject": "Science",
+            "topic": "class - 9"
+          }
+        ]
+      }
+    ]
+  }
+}
